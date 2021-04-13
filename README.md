@@ -3,4 +3,4 @@
 Python solutions of Google Kick Start 2018. Solution begins with `*` means it will get TLE in the largest data set (total computation amount > `10^8`, which is not friendly for Python to solve in 5 ~ 15 seconds). A problem was marked as `Very Hard` means that it was an unsolved one during the contest and may not be that difficult.
 
 * [Kick Start 2017](https://github.com/kamyu104/GoogleKickStart-2017)
-* [Kick Start 2018](https://github.com/kamyu104/GoogleKickStart-2019)
+* [Kick Start 2019](https://github.com/kamyu104/GoogleKickStart-2019)
